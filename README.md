@@ -1,4 +1,4 @@
-Опорный каркас:
+<img width="1372" height="987" alt="Снимок экрана 2026-02-13 в 22 14 15" src="https://github.com/user-attachments/assets/5bc7c754-16a4-4a7d-af65-849b76148aeb" />
 
 text
 # Telegram → Obsidian Converter
